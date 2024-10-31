@@ -5,6 +5,9 @@ require_once("../../paginacion.inc.php");
 require_once("../../libreria_menu.php");
 // $db->debug=true;
 
+// agregue un comentario
+echo" hola este es un cambio";
+
 echo "<html>
 <head>
     <link rel='stylesheet' href='../../css/estilos.css' type='text/css'>
